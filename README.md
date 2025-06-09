@@ -7,7 +7,7 @@ Nosso propósito é simples, mas poderoso: facilitar a conexão instantânea ent
 Juntos, cada ação se torna um elo, e cada elo, uma esperança! 🤝
 
 🔗 **Acesse agora:**  
-humanlink-front.vercel.app
+https://humanlink-front.vercel.app 
 
 
 ## ✨ Funcionalidades Principais
