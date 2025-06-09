@@ -6,6 +6,8 @@ Mais do que uma plataforma, somos uma ponte de solidariedade e uma ferramenta vi
 Nosso propósito é simples, mas poderoso: facilitar a conexão instantânea entre quem precisa de ajuda e quem pode oferecer, com foco total em geolocalização inteligente, priorização urgente e agilidade na resposta.  
 Juntos, cada ação se torna um elo, e cada elo, uma esperança! 🤝
 
+🔗 **Acesse agora:**  
+[https://humanlink.seudominio.com](https://humanlink.seudominio.com)
 
 
 ## ✨ Funcionalidades Principais
@@ -74,8 +76,8 @@ Principais componentes incluem:
 ### 📦 Instalação
 
 ```bash
-git clone https://github.com/annabonfim/gs-2025.git
-cd gs-2025
+git clone https://github.com/annabonfim/humanlink-front.git
+cd humanlink-front
 
 # Instale as dependências do projeto
 npm install
@@ -168,10 +170,11 @@ Com esse usuário, é possível navegar por todas as páginas, testar funcionali
 
 Assista à nossa apresentação do **HumanLink** para conhecer detalhes do projeto, funcionalidades e demonstrações práticas:
 
-[![Apresentação HumanLink](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Apresentação HumanLink](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/Svk93QMcHUU)
 
 **Link direto para o vídeo:**  
-[https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+https://youtu.be/Svk93QMcHUU
+
 
 
 
